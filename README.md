@@ -24,6 +24,12 @@ The project includes:
 - Streamlit web application
 - Downloadable detection results
 
+## 🌐 Live Demo
+
+The project is deployed using Streamlit Community Cloud.
+
+👉 [Open Live App](https://networkanomalydetection-tmknnjfe3pu3sdwlspyv8q.streamlit.app/)
+
 ---
 
 ## 🎯 Problem Statement
